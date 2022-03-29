@@ -42,4 +42,4 @@ My name is Yeferson Rubio, i'm 19 years old and i live in Dominican Republic, i'
 </p>
 
  
- ![Snake animation](https://github.com/YefersonR/YefersonR/blob/output/github-contribution-grid-snake.svg)
+ <!--![Snake animation](https://github.com/YefersonR/YefersonR/blob/output/github-contribution-grid-snake.svg)-->
