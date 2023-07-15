@@ -1,4 +1,7 @@
-<img align="center"  alt="Coding" src="./banner.jpg" />
+<p align="center" width="100%">
+    <img width="100%" src="image-1.png"> 
+</p>
+
 <h1 align="center"><b>Hi 👋, I'm Yeferson Rubio 👨🏽‍💻</b></h1>
 <h3 align="center" style="padding-bottom: 20px;">Software Developer</h3>
 
@@ -6,7 +9,6 @@
 
 <img align="right" alt="Coding" width="350" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" />
 
-  
 - 🔭 I’m currently working on my own projects. 
 - 🌱 I’m currently learning MEAN Stack.  
 - ❓ Ask me about anything related to C# with .Net and related technologies  
@@ -19,7 +21,7 @@
 <br>
 
 ## 💻 My Skill Set  
-<table><tr><td valign="top" width="35%">
+<table><tr><td valign="top" width="33%">
 
 
 
@@ -35,7 +37,7 @@
   <a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="35%">
+</td><td valign="top" width="33%">
 
 
 ### Backend  
