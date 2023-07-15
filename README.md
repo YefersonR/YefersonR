@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-    <img width="100%" src="image-1.png"> 
+    <img width="80%" src="image-1.png"> 
 </p>
 
 <h1 align="center"><b>Hi 👋, I'm Yeferson Rubio 👨🏽‍💻</b></h1>
@@ -51,6 +51,7 @@
   <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
   <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>      
 </div>
+</td>
 
 </tr>
 </table>  
