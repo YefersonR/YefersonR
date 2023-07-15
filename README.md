@@ -1,4 +1,4 @@
-<img  alt="Coding" src="./banner.jpg" />
+<img align="center"  alt="Coding" src="./banner.jpg" />
 <h1 align="center"><b>Hi 👋, I'm Yeferson Rubio 👨🏽‍💻</b></h1>
 <h3 align="center" style="padding-bottom: 20px;">Software Developer</h3>
 
@@ -19,7 +19,7 @@
 <br>
 
 ## 💻 My Skill Set  
-<table><tr><td valign="top" width="45%">
+<table><tr><td valign="top" width="35%">
 
 
 
@@ -35,7 +35,7 @@
   <a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="45%">
+</td><td valign="top" width="35%">
 
 
 ### Backend  
